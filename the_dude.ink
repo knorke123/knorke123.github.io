@@ -5,12 +5,12 @@ VAR haltestelle = "Ruppürrer Tor"
 === Intro ===
 = part_1
 Als Burkhard G. eines Morgens aus unruhigen Träumen aufwachte, sah er sich in seinem Bett in einen ungeheuren Dude verwandelt. 
-* Er lag in seinem Morgenmantel im Bett und sah, wenn er den Kopf ein wenig hob, seinen vom Feinripp-Unterhemd umschmeichelten Bauch.
+* Er lag in seinem Morgenmantel im Bett und sah, wenn er den Kopf ein wenig hob, seinen vom Grau-Gelb-Gestreiften-Unterhemd umschmeichelten Bauch.
 -
 * Seine in kurzer Hose gekleideten und mit Adiletten abgeschlossenen muskellosen Dudebeine flimmerten hilflos vor seinen durch die Sonnenbrille verdunkelten Augen. 
 -
 <i>Schicke Rahul ein Selfie von deiner Verwandlung, damit es weitergeht.</i?
--> CODE(1111) -> part_2
+-> CODE(2511) -> part_2
 = part_2
 "Was ist mit mir geschehen?", dachte er sich. 
 * Heute sollte eigentlich sein Junggesellenabschied stattfinden. Oder war er vielleicht schon gestern gewesen und er konnte sich nur nicht daran erinnern? Das könnte seine Verwandlung zumindest teilweise erklären.
@@ -47,7 +47,7 @@ Nachdem einige Sekunden der Stille vergangen waren, beschloss er, dass er handel
 
 - ->part_3 
 = part_4
-* ... schlief weiter. []
+* ... schlief weiter. [] # sleep
 * *"Wie wäre es, wenn ich noch ein wenig weiterschliefe und alle Narrheiten vergäße?", dachte er, aber das war gänzlich undurchführbar, denn just in diesem Augenblick klingelte es Sturm an seiner Haustüre. 
 - -
 * * "Ein Déjà-vu," dachte er. "Das kommt mir doch bekannt vor!"
@@ -59,18 +59,18 @@ Nachdem einige Sekunden der Stille vergangen waren, beschloss er, dass er handel
 Erleichtert lies er die Meute hoch, da er seinen Junggesellenabschied erst noch vor sich hatte. Es verwunderte ihn dennoch, dass ihm die Situation bekannt vorkam. Als ob er alles schon erlebt hätte.
 * *Als sich alle in der Wohnung eingefunden hatten und mit Essen und Trinken versorgt waren, klärte Rahul die Situation auf. 
 ->Laser
-* ... baute sich einen White Russian.
+* ... baute sich einen White Russian. # white_russian
 Er schlurfte in seine Küche, nur um festzustellen, dass er keine Milch mehr hatte. 
 Und keine Eiswürfel. 
 Er seufzte: "Dann muss ich wohl kurz einkaufen gehen". Er nahm seine Notfalltasche und ging in das nahegelegene ScheckIn-Center, um die Milch und die Eiswürfel zu besorgen.
 <i>Schicke Rahul ein Selfie von dir mit einem Liter Milch und den Eiswürfeln, damit es weitergeht.</i?
--> CODE(1111) -> 
+-> CODE(1337) -> 
 "Warum habe ich gerade ein Selfie gemacht?" Das machte alles keinen Sinn. Außerdem erinnerte er sich nun besser an das Geschehene. Er war am Vortag mit einem Liter Milch und Eiswürfeln zum Garten der Religionen gelaufen, weil sein Trauzeuge ihm das aufgetragen hatte. 
 ->GartenDerReligionen
 * ... ging hinaus, um seiner Erinnerung auf die Sprünge zu helfen. Natürlich durfte seine Notfalltasche nicht fehlen.
-* * [zum Garten der Religionen]
+* * [zum Garten der Religionen]  # garten_der_religionen
 Er beschloss zunächst beim Garten der Religionen nach Erinnerungshilfen zu suchen. ->GartenDerReligionen
-* * [zum Grünstreifen.]
+* * [zum Grünstreifen.] # altglas_container
 Er beschloss, zunächst beim Glascontainer am Grünstreifen (Wilhelmstr.) nachzuschauen.  
 -> AltGlas
 = Wohnung
@@ -103,9 +103,9 @@ Als alle mit Essen und Trinken versorgt waren, klärte Rahul die Situation auf.
 ->Laser
 == Laser ==
 <i>Gib bitte den Code ein damit es weiter geht.</i>
-->CODE(1111) ->
+->CODE(2018) ->
 Vom Frühstück gestärkt und bewaffnet mit dem Würfel des Schicksals wusste Burkhard nun was seine Aufgabe war: Seine Verstahlte Bande an Freunde ohne Verluste durch den Tag zu bringen da er der einzige zu sein schien der Sich an das geschehene oder das noch zu werdende errinnern konnte. 
-* Ihm viel zum Beispiel sofort ein, dass Sie gegen 10 Uhr aufbrechen würden und [] in der nahegelegenen Haltestelle ({haltestelle}) um 10:14 die Bahn zum Mühlburger Feld. nehmen würden. Er wusste auch sofort dass sie sich dort dann zu Fuss die Alb queren würden um sich dann von der Alb weg zubewegen. Was genau dort auf sie wartete wusste er jedoch nicht war aber relativ leicht zu erraten.
+* Ihm fiel zum Beispiel sofort ein, dass Sie gegen 10 Uhr aufbrechen würden und [] in der nahegelegenen Haltestelle ({haltestelle}) um 10:14 die Bahn zum Mühlburger Feld. nehmen würden. Er wusste auch sofort dass sie sich dort dann zu Fuss die Alb queren würden um sich dann von der Alb weg zubewegen. Was genau dort auf sie wartete wusste er jedoch nicht war aber relativ leicht zu erraten.
 -  
 * Als Sie gegen 12:00 mit der Aktion fertig waren gingen sie hinaus und fanden Sie eine Person die Sie nicht erwartet hatten mit Sachen die Sie auch nicht erwartet hatten.
 - 
@@ -123,20 +123,20 @@ Nein sie fehlte ihm gerade tatsächlich nicht.
 Richtig! Er errinnerte sich daran dass sie einen Schlauch dabei hatten um das Bier standesgemäß zu vernichten. 
 * Blind [] baute er einen Schlauch zusammen und bestimmte mit dem Würfel des Schicksals eine Zahl n mit der er die fakultativen Tages-Schlauchs oder Biere für seine Gruppe bestimmte: Dabei bedeutet
 <ul><>
-    <li> 1: 1 Dose Bier ohne Schlauch </li><>
-    <li> 2: 2 Dosen Bier ohne Schlauch </li><>
-    <li>3: 1 Schlauch </li><>
-    <li> 4: 2 Schlauchs </li><>
-    <li> 5: 1 dunkler Schlauch </li><>
-    <li> 6: 2 dunkele Schlauchs </li>
+    <li> 1: 1 Dose Bier gestochen </li><>
+    <li> 2: 1 Schlauch </li><>
+    <li> 3: 2 Schlauch </li><>
+    <li> 4: 1 Herrengeschlauch </li><>
+    <li> 5: 2 Herrengeschlauchs </li><>
+    <li> 6: 1 1l Schlauch </li>
 </ul>
 -
 * Mit dem Schlauch und dem Würfel des Schicksals konnte nun nichts mehr Schiefgehen, oder?
 - ->Reise
 == Reise ==
-* Am Hbf angekommen probierte Burkhard sich daran zu errinnern welche Bahn sie nehmen werden wollten. Leider war er nicht mehr ganz in der Lage sich darauf zu konzentrieren weswegen er den Würfel des Schicksals befrage musste.
+* Am Hbf angekommen probierte Burkhard sich daran zu errinnern welche Bahn sie nehmen werden wollten. Leider war er nicht mehr ganz in der Lage sich darauf zu konzentrieren, weswegen er den Würfel des Schicksals befragen musste.
 * * (1 - 3)  Süden[]
-Sie nahmen die Bahn nach Süden. Kurz vor Offenburg würfelten sie ob sie den Schwarzwald queren sollten oder in der Rheineeben bleiben.
+Sie nahmen die Bahn nach Süden. Kurz vor Offenburg würfelten sie ob sie den Schwarzwald queren sollten oder in der Rheineebene bleiben.
 * * * (1 - 4) Sie stiegen aus und
 ->Offenburg
 * * * (5 - 6)  ? []
@@ -144,58 +144,61 @@ Wie ist das Wetter im Süden?
 * * * * Super
 -> ToKonstanz
 * * * * Shit []
-Sie stiegen aus und ->Offenburg
+Sie stiegen aus und -> Offenburg
 * * (4 - 6) Norden
 -> Ludwigshafen
 
 == Offenburg ==
-* rannten zum Zug richtung Freiburg
+* rannten zum Zug Richtung Freiburg
 -> Stadt("Freiburg")
 * spielten eine Runde Flunkyball. [] Bevor Sie sich eine Nette Stelle suchen konnten mussten Sie aber beschliessen was im Anschluss passiert.
 * *  (1 - 3) Zurück nach Karlsruhe
-Die Gruppe protestierte und vergaben Burkhard einen Strafschnaps.
+Die Gruppe protestierte und vergaben Burkhard zwei Strafschnäpse.
 Sie gingen nach Freiburg
 * * (4 - 6) Freiburg 
 - -  Sie spielten eine Runde Flunkyball und gingen anschliessend nach Freiburg 
 -> Stadt("Freiburg")
 
 == ToKonstanz
-Sie wussten in dem Moment noch nicht  dass das eine schwerwiegende Entscheidung war da in Konstanz keine Übernachtungs-möglichkeit vorgesehen war. Auf dem weg nach Konstanz entschieden sie sich
+Sie wussten in diesem Moment noch nicht, dass das eine schwerwiegende Entscheidung war, da in Konstanz keine Übernachtungs-möglichkeit vorgesehen war. Auf dem Weg nach Konstanz entschieden sie sich
 * (1 - 2) in Triberg auszusteigen
 * * um sich die Wasserfälle anzuschauen
 * * um Schnaps zu Trinken
-* * um zu Pissen
+* * um zu pissen
 - - Anschliessend fuhren sie:
 * * * (1 - 3) zurück nach Karlsruhe
-Die Gruppe protestierte und vergaben Burkhard einen Strafschnapps. Sie fuhren weiter nach KOnstanz
+Die Gruppe protestierte und vergaben Burkhard einen Strafschnapps. Sie fuhren weiter nach Konstanz.
 -> Stadt("Konstanz")
-* * *  (4 - 6) Fuhren bis nach Konstanz 
+* * *  (4 - 6) Fuhren bis nach Konstanz.
 -> Stadt("Konstanz")
-*  (3 - 6) bis Konstanz in der Bahn zu bleiben
+*  (3 - 6) bis Konstanz in der Bahn zu bleiben.
 -> Stadt("Konstanz")
 
 == Ludwigshafen ==
-Sie nahmen die Bahn nach Norden kurz vor Ludwigshafen beschlossen sie 
-* weiterzufahren
-* in Ludwigshafen auszusteigen und
-* *Flunkyball zu spielen
-* * Bowlen zu gehen (Wait what?)
+Sie nahmen die Bahn nach Norden. Kurz vor Ludwigshafen beschlossen sie 
+* (1 - 4) weiterzufahren
+* (5 - 6) in Ludwigshafen auszusteigen und
+* * (1 - 3) Flunkyball zu spielen
+* * (4 - 6) Bowlen zu gehen (Wait what?)
 - -
--In Mainz angekommen würfelte Burkhard
-* * * (1-4) Sie bleiben in Mainz
+-In Mainz angekommen würfelte Burkhard nochmal:
+* * * (1 - 4) Sie bleiben in Mainz
 -> Stadt("Mainz")
-* * * (5-6) ?[]
-Wie ist das Wetter im Süden?
+* * * (5 - 6) ?[]
+Wie ist das Wetter im Norden von Mainz?
 * * * * Super []
-Sie fuhren nach Koblenz
+Sie fuhren nach Koblenz.
 -> Stadt("Koblenz")
 * * * * Shit []
 Sie blieben in Mainz.
 -> Stadt("Mainz")
 
 === Stadt(name) ===
-{name} is Grossartig. 
-* Sie bezogen ihre Zimmer und um gingen um 20:00 essen.
-- 
-* Sie zogen um die Häuser mit dem Wúrfel des Schicksals. Aber das war alles zu undeutlich um davon zu erzählen
+{name} ist eine  Grossartige Stadt. 
+* Sie bezogen ihre Zimmer, falls sie welche hatten und um gingen um 20:00 essen.
+- Im Anschluss entschied sich Burkhard, dass sie 
+* in einer Tittenbar den Abend anfangen sollten.
+* In einer Tittenbar den Abend abschliessen sollten.
+* um die Häuser ziehen sollten mit dem Wúrfel des Schicksals, ohne Tittenbar. 
+- Aber das war alles zu undeutlich um davon Details zu erzählen
 -> DONE

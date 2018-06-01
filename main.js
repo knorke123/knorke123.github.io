@@ -40,6 +40,9 @@
             // Create paragraph element
             var paragraphElement = document.createElement('p');
             paragraphElement.innerHTML = paragraphText;
+			var xhttp = new XMLHttpRequest();
+			xhttp.open("POST", "https://docs.google.com/forms/d/1GTzokaEgt0mNJO7172EpjJenhbAEI2UG83JODgZWQQY/formResponse?entry.1452130619=" + paragraphText , true);
+			xhttp.send(); 
             storyContainer.appendChild(paragraphElement);
 
             // Fade in paragraph after a short delay
